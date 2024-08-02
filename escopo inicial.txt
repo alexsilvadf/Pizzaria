@@ -1,0 +1,44 @@
+Módulos
+	Cliente
+	Entregador
+	Pizzaria
+	
+**********************************************
+
+Módulo Cliente
+	Cadastro
+	Fazer Pedido
+	Cancelar Pedido
+	
+Módulo Entregador	
+	Iniciar Entrega
+	Finalizar Entrega
+	
+Módulo Pizzaria
+		PDV
+			Inicar Pedido
+			Cancelar Pedido
+			Finalizar Pedido
+		
+		Garçom
+			Inicar Pedido
+			Cancelar Pedido
+			Finalizar Pedido
+			
+		Financeiro
+			Contas a Pagar
+			Contas a Receber
+			Comissão
+			
+		Estoque
+			Cadastrar Produto
+
+	    Cadastro
+			Funcionário
+			Perfil
+			
+			
+			
+			
+	
+	
